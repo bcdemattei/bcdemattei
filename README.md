@@ -19,4 +19,4 @@ Scientifically, I'm interetested in marine & freshwater fisheries, cetacean beha
 
 For comedy stylings with occasional jokes about science & data:
 
-> Instagram: [@bcd_comedy](https://instagram.com/bcd_comedy)
+> Instagram: [@bcd_comedy](https://instagram.com/bcdcomedy)
