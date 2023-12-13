@@ -17,6 +17,3 @@ Scientifically, I'm interetested in marine & freshwater fisheries, cetacean beha
 
 > Twitter: [@tsoog_boy](https://twitter.com/tsoog_boy)
 
-For comedy stylings with occasional jokes about science & data:
-
-> Instagram: [@bcd_comedy](https://instagram.com/bcdcomedy)
