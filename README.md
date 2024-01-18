@@ -17,7 +17,7 @@ I am the lab & data manager for the Hampton Lab at the Carnegie Institution for 
 Scientifically, I'm interetested in marine & freshwater fisheries, cetacean behavior, scientific communication & education, and pretty much anything to do with the ocean 🌊🐟🐋
 
 ### Contact
-> Email: [bdemattei@carnegiescience.edu](mailto:bdemattei@carnegiescience.edu)
+> Email: [bcdemattei@gmail.com](mailto:bcdemattei@gmail.com)
 
 > Twitter: [@tsoog_boy](https://twitter.com/tsoog_boy)
 
