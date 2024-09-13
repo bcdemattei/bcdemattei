@@ -14,8 +14,11 @@ I am the lab & data manager for the Hampton Lab at Carnegie Science. Our work ma
 
 Current Interests:
 > Computer Vision & Machine Learning
+
 > Rotifer predator-prey dynamics
+
 > Open-source, simple, and easy data management workflows
+
 > Creating fun, little projects focused on computer vision
 
 
