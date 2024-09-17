@@ -8,6 +8,8 @@ _Pronouns (he/him/his)_
 
 I am the lab & data manager for the Hampton Lab at Carnegie Science. Our work mainly focuses on the ecology & carbon cycles of lakes under ice and winter conditions, as well as rotifer ecology and egg development! In the past, I have researched mammalian zoonotic pathology in Los Angeles, Polynesian coral reefs, California Central Valley salmon population ecology, and Scottish marine mixed fisheries ecology. I love creating data management flows & protocols, analyzing & visualizing data, and making the occasional website or two.
 
+CV GOES HERE
+
 > [Hampton Lab Website](https://hampton-lab.github.io/Hampton-Lab/)
 
 > [Winter Limnology Network](https://winter-ice.github.io/winter-ice/)
