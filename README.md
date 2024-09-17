@@ -6,7 +6,7 @@ _Pronouns (he/him/his)_
 
 > Marine Conservation MSc | University of Aberdeen
 
-I am the lab & data manager for the Hampton Lab at Carnegie Science. Our work mainly focuses on the ecology & carbon cycles of lakes under ice and winter conditions, as well as rotifer ecology and egg development! In the past, I have researched Polynesian coral reefs, mammalian zoonotic pathology in Los Angeles, California Central Valley salmon ecology, and Scottish fisheries ecology. I love creating data management flows & protocols, analyzing & visualizing data, and making the occasional website or two.
+I am the lab & data manager for the Hampton Lab at Carnegie Science. Our work mainly focuses on the ecology & carbon cycles of lakes under ice and winter conditions, as well as rotifer ecology and egg development! In the past, I have researched mammalian zoonotic pathology in Los Angeles, Polynesian coral reefs, California Central Valley salmon population ecology, and Scottish marine mixed fisheries ecology. I love creating data management flows & protocols, analyzing & visualizing data, and making the occasional website or two.
 
 > [Hampton Lab Website](https://hampton-lab.github.io/Hampton-Lab/)
 
@@ -23,6 +23,8 @@ Current Interests:
 
 
 ### Contact
-> Email: [bcdemattei@gmail.com](mailto:bcdemattei@gmail.com)
+> Email: [bcdemattei (at) gmail (dot) com](mailto:bcdemattei@gmail.com)
+
+> LinkedIn: [link](https://www.linkedin.com/in/bcdemattei/)
 
 
